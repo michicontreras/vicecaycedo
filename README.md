@@ -18,7 +18,7 @@ Learn more about me [here][website].
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br>
 
-[header]: /assets/header.png
+[header]: /assets/header.svg
 [website]: https://www.vicecaycedo.com
 [linkedin]: https://www.linkedin.com/in/vicecaycedo
 [github]: https://www.github.com/vicecaycedo
